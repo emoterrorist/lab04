@@ -1,3 +1,4 @@
+<фрагмент_вставки_значка>
 ┌──(emoterrorist㉿emo)-[~]
 └─$ export GITHUB_USERNAME=emoterrorist
 
